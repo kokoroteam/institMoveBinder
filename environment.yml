@@ -5,3 +5,6 @@ dependencies:
   - numpy
   - pandas
   - pandas-profiling
+  - matplotlib
+  - yfinance
+  - scipy 
